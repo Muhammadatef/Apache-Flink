@@ -40,7 +40,8 @@ Apache Flink has been revolutionary in enabling real-time analytics and data pro
 
 The repository contains the following sample projects to demonstrate Flink's capabilities:
 
-1. **WordCount Example**: A basic project demonstrating the fundamentals of Flink's API and stream processing with a simple word count program.
+1. **WordCountProgram**: A project that uses Apache Flink's DataSet API to perform batch processing for counting words in a static input file.
+2. **WordCountStreamProgram**: A project that utilizes Apache Flink's DataStream API to count words in real-time from a socket source.
 
 ## Getting Started
 
