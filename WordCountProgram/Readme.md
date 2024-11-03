@@ -149,8 +149,7 @@ Configuration: Job and task-specific settings
 
 ## Job Visualization
 The dashboard provides a visual representation of your WordCount pipeline:
-![Flink WordCount Job Graph](images/Screenshot%20from%202024-11-02%2017-06-44.png)
-
+![Flink WordCount Job Graph](images/Graph.png)
 
 ## Troubleshooting
 
