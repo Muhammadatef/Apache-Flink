@@ -9,15 +9,6 @@
 - Maven (for building the project)
 - A terminal with netcat (`nc`) installed for sending input to the socket.
 
-## Project Structure
-WordCountStreamProgram/ 
-├── src/ 
-  │└── main/ 
-    │ └── java/ 
-      │ └── WordCountStreamProgram.java 
-├── pom.xml
-└── README.md
-
 
 
 ## Setup and Installation
