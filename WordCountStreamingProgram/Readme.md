@@ -14,7 +14,7 @@
 ## Setup and Installation
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Muhammadatef/Apache-Flink.git)
    cd WordCountStreamProgram
     ```
 
